@@ -30,7 +30,7 @@ The model follows a symmetrical encoder-decoder structure optimized for volumetr
 
 Input volumes are resized, normalized, and cleaned to improve segmentation quality.
 
-![Preprocessing](Assets/Preprocessing.png)
+![Preprocessing](3D-Liver-Segmentation-UNet/Assets/Preprocessing.png)
 
 ---
 
@@ -48,10 +48,15 @@ Best Train Dice:        0.9448
 ## ⚙️ Technical Summary
 
 | **Project** | [3D Liver Segmentation Model](https://www.kaggle.com/code/omareldash75/3d-liver-segmentation-using-u-net) |
+
 | **Input Size** | 64 × 128 × 128 |
+
 | **Architecture** | 3D U-Net |
+
 | **Optimizer** | Adam |
+
 | **Loss Function** | Dice Loss |
+
 | **Dataset** | [Kaggle Liver Segmentation Dataset](https://www.kaggle.com/datasets/prathamgrover/3d-liver-segmentation) |
 
 ---

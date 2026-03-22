@@ -30,7 +30,7 @@ The model follows a symmetrical encoder-decoder structure optimized for volumetr
 
 Input volumes are resized, normalized, and cleaned to improve segmentation quality.
 
-![Preprocessing](path/to/your/preprocessing_image.png)
+![Preprocessing](Assets/Preprocessing.png)
 
 ---
 
